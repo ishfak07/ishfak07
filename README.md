@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=gradient&height=180&text=Faizul%20Ishfak&fontSize=40&animation=twinkling&color=0:EC4899,50:6D28D9,100:1E3A8A" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Faizul%20Ishfak&fontSize=40&fontAlignY=35"/>
 </p>
+
 
 
 <!-- README.md for Faizul Ishfak (GitHub-Optimized) -->
