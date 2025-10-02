@@ -77,25 +77,24 @@
 
 ## 🚀 Featured Projects  
 
-<p align="center">
+<div align="center">
+
   <a href="https://github.com/ishfak07/HireMe">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=HireMe&theme=tokyonight" />
   </a>
   <a href="https://github.com/ishfak07/SmartRise-Puttalam">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=SmartRise-Puttalam&theme=tokyonight" />
   </a>
-</p>
 
-<p align="center">
   <a href="https://github.com/ishfak07/Sweet-Delights">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=Sweet-Delights&theme=tokyonight" />
   </a>
   <a href="https://github.com/ishfak07/Quite-Mate">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=Quite-Mate&theme=tokyonight" />
   </a>
-</p>
 
----
+</div>
+
 
 ## 📊 GitHub Analytics  
 
