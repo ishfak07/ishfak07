@@ -33,59 +33,14 @@
 
 ```typescript
 const ishfaque = {
-    fullName: "M. I. F. Ishfaque",
-    role: "Full Stack Developer & Software Engineer",
+    role: "Full Stack Developer",
     workingAt: "Self / Freelance",
-    code: [
-        "Java",
-        "JavaScript",
-        "Node.js",
-        "HTML5",
-        "CSS3",
-        "Flutter",
-        "Dart",
-        "React",
-        "Express.js",
-        "MongoDB"
-    ],
-    architecture: [
-        "Web Applications",
-        "Mobile Applications",
-        "Responsive Design",
-        "Client-Server Architecture",
-        "API Integration"
-    ],
-    projects: [
-        {
-            name: "Hire_Me",
-            description: "Web platform connecting service providers with users",
-            tech: ["Node.js", "Express.js", "MongoDB", "JavaScript", "CSS3"]
-        },
-        {
-            name: "FurniVUE",
-            description: "Interactive interior design desktop application",
-            tech: ["Java", "Java Swing", "OpenGL"]
-        },
-        {
-            name: "QuiteMate",
-            description: "Cross-platform smoking cessation mobile app",
-            tech: ["Flutter", "Firebase", "Dart"]
-        },
-        {
-            name: "My_Portfol.io",
-            description: "Personal portfolio website showcasing projects and skills",
-            tech: ["HTML5", "CSS3", "JavaScript"]
-        }
-    ],
-    currentFocus: "Building scalable, user-friendly web and mobile solutions with modern technologies",
-    funFact: "I code with coffee ☕️, design with creativity 🎨, and debug with determination 💻",
-    hobbies: ["Graphic Design", "Video Editing", "UI/UX Design", "Gaming", "Tech Blogging"],
-    contact: {
-        email: "your-email@example.com",
-        github: "https://github.com/ishfak07",
-        linkedin: "https://www.linkedin.com/in/ishfak07"
-    }
+    code: ["Java", "JavaScript", "HTML", "CSS", "Node.js", "Flutter", "Dart"],
+    architecture: ["Web Applications", "Mobile Applications", "Responsive Design"],
+    currentFocus: "Creating user-friendly web and mobile solutions",
+    funFact: "I design, code, and debug with a cup of tea! ☕️"
 };
+
 
 ```
 
