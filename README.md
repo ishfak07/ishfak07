@@ -44,7 +44,7 @@ const ishfak = {
 
 ## 🎓 Education | 📜 Certifications | 💼 Experience  
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Education-🎓-6D28D9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Certifications-📜-1E90FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Experience-💼-EC4899?style=for-the-badge" />
