@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/animated-banner.svg" width="100%" alt="banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=700&lines=Faizul+Ishfak;Software+Engineer;MERN+Stack+Developer;ERP+%7C+Agile+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
-
 
 <!-- README.md for Faizul Ishfak (GitHub-Optimized) -->
 
