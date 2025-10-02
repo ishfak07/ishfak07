@@ -3,11 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Faizul%20Ishfak&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,3,10,20,30" alt="header"/>
 </p>
 
-<!-- 👨‍💻 Title & Role -->
-<h1 align="center">Hi 👋, I'm Faizul Ishfak</h1>
-<p align="center"><b>Software Engineer | BSc (Hons) Computer Science | MERN | ERP | Agile</b></p>
 
----
 
 <!-- ✨ Typing animation -->
 <p align="center">
