@@ -1,9 +1,7 @@
+<!-- animated banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&pause=1000&color=EC4899&center=true&vCenter=true&width=750&lines=Faizul+Ishfaque;Full-Stack+Developer;Creative+Designer;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://svg-banners.vercel.app/api?type=waving&text1=Faizul%20Ishfaque&width=800&height=200&fontSize=40" alt="Waving Banner"/>
 </p>
-
-
-
 
 
 <!-- README.md for Faizul Ishfak (GitHub-Optimized) -->
