@@ -3,9 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Faizul%20Ishfak&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,3,10,20,30" alt="header"/>
 </p>
 
-
-
-
 <!-- README.md for Faizul Ishfak (GitHub-Optimized) -->
 
 <p align="center">
