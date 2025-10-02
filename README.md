@@ -77,43 +77,34 @@
 
 ## 🚀 Featured Projects  
 
-<div align="center">
+---
 
-### 🌟 HireMe – Service Hiring Platform  
-<a href="https://github.com/ishfak07/HireMe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=HireMe&theme=radical&show_owner=true" />
-</a>  
+### 🌟 HireMe – Service Hiring Platform
+[![HireMe](https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=HireMe&theme=radical&show_owner=true)](https://github.com/ishfak07/HireMe)  
 🔹 Web-based platform connecting service providers with users  
 🔹 OTP verification • Booking system • Real-time notifications  
 
 ---
 
-### 🌆 SmartRise Puttalam – Smart City Website  
-<a href="https://github.com/ishfak07/SmartRise-Puttalam">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=SmartRise-Puttalam&theme=radical&show_owner=true" />
-</a>  
+### 🌆 SmartRise Puttalam – Smart City Website
+[![SmartRise Puttalam](https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=SmartRise-Puttalam&theme=radical&show_owner=true)](https://github.com/ishfak07/SmartRise-Puttalam)  
 🔹 Smart city platform for digital transformation  
 🔹 Modern UI/UX • Service access • Sustainability insights  
 
 ---
 
-### 🥐 Sweet Delights – Bakery Website  
-<a href="https://github.com/ishfak07/Sweet-Delights">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=Sweet-Delights&theme=radical&show_owner=true" />
-</a>  
+### 🥐 Sweet Delights – Bakery Website
+[![Sweet Delights](https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=Sweet-Delights&theme=radical&show_owner=true)](https://github.com/ishfak07/Sweet-Delights)  
 🔹 Online bakery ordering system  
 🔹 Products • Payments • Delivery • Customer feedback  
 
 ---
 
-### 📱 Quite Mate – Smoke Tracking App  
-<a href="https://github.com/ishfak07/Quite-Mate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=Quite-Mate&theme=radical&show_owner=true" />
-</a>  
+### 📱 Quite Mate – Smoke Tracking App
+[![Quite Mate](https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=Quite-Mate&theme=radical&show_owner=true)](https://github.com/ishfak07/Quite-Mate)  
 🔹 Flutter + Firebase app for smoke tracking  
 🔹 Real-time habit tracking • User progress analytics  
 
-</div>
 
 
 
