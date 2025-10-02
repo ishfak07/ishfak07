@@ -52,6 +52,46 @@ const ishfaque = {
   <img src="https://img.shields.io/badge/Experience-💼-EC4899?style=for-the-badge" />
 </p>
 
+<details>
+<summary><h2>🛠️ Tech Arsenal</h2></summary>
+
+## Technolgy 💻
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/html5-icon.svg" alt="HTML5" width="65" height="65" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/css3-icon.svg" alt="CSS3" width="65" height="65" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="Flutter" width="65" height="65" />
+      <br>Flutter
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,nodejs,flutter,dart,react,mongodb&theme=dark" />
+</div>
+
+</details>
+
 ### 🎓 Education
 - **University of Plymouth** — BSc (Hons) Computer Science (2022 - 2025)  
 - **NSBM Green University** — BSc (Hons) Computer Science (2022 - 2025)  
