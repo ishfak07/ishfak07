@@ -43,11 +43,6 @@ const ishfaque = {
         email: "your-email@example.com",
         github: "https://github.com/ishfak07"
     },
-    learning: ["OpenGL", "Agile Methodologies", "Cloud Services"]
-};
-
-
-
 ```
 
 ## 🎓 Education | 📜 Certifications | 💼 Experience  
