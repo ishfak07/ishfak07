@@ -165,9 +165,21 @@
 
 ## 🐍 Contribution Snake  
 
+## 📊 GitHub Stats & Contributions
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ishfak07/ishfak07/output/snake.svg" alt="Snake animation"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ishfak07&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Ishfaque's GitHub Stats"/>
+  
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=ishfak07&theme=tokyonight&hide_border=true" height="150" alt="Ishfaque's GitHub Streak"/>
 </p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ishfak07&theme=react-dark&area=true" alt="Ishfaque's Contribution Graph"/>
+</p>
+
 
 ---
 
