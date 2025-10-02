@@ -1,77 +1,165 @@
-<!-- 🌟 Profile Banner -->
+<!-- README.md for Faizul Ishfak (updated) -->
+
+<!-- =========================
+     INLINE SVG ANIMATED HEADER
+     (No external clickable images)
+   ========================= -->
+<div align="center">
+
+<!-- Animated SVG banner -->
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" role="img" aria-label="Faizul Ishfak header">
+  <defs>
+    <linearGradient id="gradA" x1="0" x2="1">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="50%" stop-color="#6d28d9"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="40" result="b"/>
+      <feBlend in="SourceGraphic" in2="b"/>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="220" fill="url(#gradA)" />
+
+  <!-- animated soft blobs -->
+  <g fill="#ffffff" opacity="0.08" filter="url(#blur)">
+    <circle cx="150" cy="60" r="70">
+      <animate attributeName="cx" dur="14s" values="150;1050;150" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="400" cy="120" r="55">
+      <animate attributeName="cx" dur="9s" values="400;800;400" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="950" cy="50" r="40">
+      <animate attributeName="cx" dur="12s" values="950;200;950" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- main name -->
+  <text x="50%" y="84" text-anchor="middle" font-family="Inter, Roboto, Arial, sans-serif" font-size="36" font-weight="700" fill="#ffffff">Faizul Ishfak</text>
+
+  <!-- subtitle -->
+  <text x="50%" y="115" text-anchor="middle" font-family="Inter, Roboto, Arial, sans-serif" font-size="14" fill="#ffffff" opacity="0.95">
+    Software Engineer | BSc (Hons) Computer Science | MERN • ERP • Agile
+  </text>
+
+  <!-- small accent line -->
+  <rect x="380" y="132" width="440" height="3" rx="2" fill="#ffffff" opacity="0.12"/>
+</svg>
+
+</div>
+
+---
+
+<!-- =========================
+     INLINE TAGLINE (safe SVG alternating text)
+   ========================= -->
+<div align="center" style="margin-top: 12px; margin-bottom: 12px;">
+  <svg width="700" height="40" viewBox="0 0 700 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <style>
+      /* font fallback displayed by GitHub */
+      <![CDATA[
+        .t { font-family: "Fira Code", "Courier New", monospace; font-size:14px; fill:#0f172a; }
+      ]]>
+    </style>
+
+    <!-- three lines that fade in/out in sequence -->
+    <text x="50%" y="25" text-anchor="middle" class="t">
+      <tspan id="line1" opacity="1">Software Engineer Intern at Imara Software Solutions</tspan>
+      <tspan id="line2" opacity="0" x="50%" dy="20">Building scalable solutions with ❤️</tspan>
+      <tspan id="line3" opacity="0" x="50%" dy="20">MERN • ERP • Automation • Testing • Agile</tspan>
+
+      <!-- timing: 0–5s show line1, 5–10s show line2, 10–15s show line3, loop -->
+      <animate xlink:href="#line1" attributeName="opacity" values="1;1;0" dur="15s" keyTimes="0;0.33;1" repeatCount="indefinite"/>
+      <animate xlink:href="#line2" attributeName="opacity" values="0;1;0" dur="15s" keyTimes="0;0.33;0.66" repeatCount="indefinite"/>
+      <animate xlink:href="#line3" attributeName="opacity" values="0;1;1" dur="15s" keyTimes="0.33;0.66;1" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</div>
+
+---
+
+<!-- =========================
+     CONTACT / BADGES
+   ========================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Faizul%20Ishfak&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,3,10,20,30" alt="header"/>
+  <a href="mailto:memberofpfc20@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/faizul-ishfaque"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://ishfak07.github.io/My_portfol.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-29a?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://github.com/ishfak07"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-222?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<!-- 👨‍💻 Title & Role -->
-<h1 align="center">Hi 👋, I'm Faizul Ishfak</h1>
-<p align="center"><b>Software Engineer | BSc (Hons) Computer Science | MERN | ERP | Agile</b></p>
+---
+
+# 👋 About Me
+
+**M. I. F. Ishfaque** — Software Engineer | BSc (Hons) Computer Science (2nd Lower)  
+Puttalam, North Western Province, Sri Lanka — passionate about building reliable web systems, ERP customizations (Frappe), and automation.
+
+**Summary**  
+I’m a Computer Science graduate (University of Plymouth, graduation Dec 2025) currently working as a Software Engineer Intern. I enjoy system design, full-stack development (MERN), QA/testing, and continuous improvement of products through automation and teamwork.
 
 ---
 
-<!-- ✨ Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+Intern+at+Imara+Software+Solutions;Building+scalable+solutions+with+❤️;Web+Development+|+MERN+Stack+|+ERP+Solutions;Automation+%7C+Agile+Methodology+%7C+Problem+Solving" alt="Typing SVG" />
-</p>
+<!-- =========================
+     EDUCATION / CERTIFICATIONS / EXPERIENCE
+     Presented as visually distinct cards (table layout)
+   ========================= -->
+
+<table width="100%">
+  <tr>
+    <!-- EDUCATION card -->
+    <td valign="top" width="33%" style="padding:8px;">
+      <details open>
+        <summary><h3>🎓 Education</h3></summary>
+        <ul>
+          <li><b>University of Plymouth</b> — BSc (Hons) Computer Science (March 2022 - Sep 2025)</li>
+          <li><b>NSBM Green University</b> — BSc (Hons) Computer Science (2022 - 2025)</li>
+          <li><b>Refresh College</b> — NVQ 4 (Computer Science)</li>
+        </ul>
+      </details>
+    </td>
+
+    <!-- CERTIFICATIONS card -->
+    <td valign="top" width="33%" style="padding:8px;">
+      <details>
+        <summary><h3>📜 Certifications</h3></summary>
+        <ul>
+          <li>CPICS (NVQ Level 4-like syllabus)</li>
+          <li>Computer Application Assistant</li>
+          <li>Diploma in Computer Applications</li>
+          <li>Graphic & Digital Designing</li>
+          <li>Computer Hardware</li>
+        </ul>
+      </details>
+    </td>
+
+    <!-- EXPERIENCE card -->
+    <td valign="top" width="33%" style="padding:8px;">
+      <details>
+        <summary><h3>💼 Experience</h3></summary>
+        <p><b>Imara Software Solutions</b> — Software Engineer Intern<br>
+        <em>Sep 2025 - Present • Puttalam, Sri Lanka</em></p>
+        <ul>
+          <li>Contribute to coding, testing and documentation for production features.</li>
+          <li>Work with senior engineers to improve feature reliability and performance.</li>
+          <li>Participate in sprint planning and peer reviews; strengthen QA coverage.</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- 📬 Contact Section -->
-<h2 align="center">📬 Let's Connect</h2>
-<p align="center">
-  <a href="mailto:memberofpfc20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/faizul-ishfaque"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://ishfak07.github.io/My_portfol.io/"><img src="https://img.shields.io/badge/Portfolio-29a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/ishfak07"><img src="https://img.shields.io/badge/GitHub-222?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+## 🛠️ Top Skills
 
----
-
-## 🧑‍💻 About Me
-
-🎓 I’m **M. I. F. Ishfaque**, a **Computer Science graduate** from Plymouth University (Graduation: Dec 2025) and currently a **Software Engineer Intern** at **Imara Software Solutions**.  
-
-💡 Passionate about **software engineering, system design, QA testing, and problem-solving**.  
-🌱 Continuously learning & improving my expertise in **MERN stack, ERP systems, and Agile methodology**.  
-🚀 Strong interest in **scalable software, cloud platforms, and automation**.  
-🤝 Open to **collaborating on projects, contributing to open-source, and sharing knowledge**.  
-
----
-
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,docker,azure" />
-</p>
-
-- **Frontend:** HTML5, CSS3 (Responsive & Animations), JavaScript (Vanilla, ReactJS)  
-- **Backend:** Node.js, Express, FastAPI, Django  
-- **Databases:** MongoDB, SQL  
-- **Tools & Cloud:** Docker, Azure, GitHub Actions, Microservices, CI/CD  
-- **Other:** ERP, Frappe, Agile methodology, QA & Testing  
-
----
-
-## 🎓 Education & Certifications
-
-- 🎓 **BSc (Hons) Computer Science (2nd Class Lower)** – University of Plymouth | NSBM Green University  
-- 📜 **Certifications**:  
-  - CPICS (Similar NVQ Level 4 Syllabus)  
-  - Computer Application Assistant  
-  - Diploma in Computer Applications  
-  - Graphic & Digital Designing  
-  - Computer Hardware  
-
----
-
-## 💼 Experience
-
-**Software Engineer Intern – Imara Software Solutions**  
-📍 Puttalam, Sri Lanka | *Sep 2025 – Present*  
-- Supporting software development via coding, testing & documentation.  
-- Collaborating with senior engineers on high-quality deliverables.  
-- Improving features while ensuring performance & reliability.  
-- Actively engaging in team discussions & sprint planning.  
+- HTML5, CSS3 (responsive & animations), Vanilla JavaScript
+- ReactJS, Node.js, Express, MongoDB (MERN)
+- Python, FastAPI/Django, SQL
+- Docker, Azure, CI/CD (GitHub Actions)
+- ERP (Frappe), System design, QA & testing
 
 ---
 
@@ -79,35 +167,38 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h4>HireMe – Service Provider Platform</h4>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ishfak07/HireMe" target="_blank">HireMe — Service Provider Platform</a></h4>
       <ul>
-        <li>Web platform connecting service needers & providers</li>
-        <li>OTP verification, real-time notifications, admin control</li>
-        <li>Developed with Node.js, Express, Socket.IO, MongoDB</li>
+        <li>Connects service seekers with verified providers — OTP verification & real-time notifications.</li>
+        <li>Stack: Node.js, Express, Socket.IO, MongoDB.</li>
       </ul>
+      <p><small>Key: Authentication • Real-time • Admin controls</small></p>
     </td>
-    <td width="50%">
-      <h4>SmartRise Puttalam – Smart City Website</h4>
+
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ishfak07/SmartRise-Puttalam" target="_blank">SmartRise Puttalam — Smart City</a></h4>
       <ul>
-        <li>Interactive platform showcasing smart city features</li>
-        <li>Built with React & Tailwind for responsive UI</li>
+        <li>Responsive site showcasing smart city ideas and local services.</li>
+        <li>Stack: React, Tailwind CSS.</li>
       </ul>
+      <p><small>Key: UX • Responsive • Prototyping</small></p>
     </td>
   </tr>
+
   <tr>
-    <td width="50%">
-      <h4>Sweet Delights Bakery – Online Ordering</h4>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ishfak07/Sweet-Delights" target="_blank">Sweet Delights — Bakery Website Prototype</a></h4>
       <ul>
-        <li>Requirement elicitation & website prototype</li>
-        <li>Focused on customer ordering, delivery & feedback</li>
+        <li>Requirement elicitation and ordering workflow prototype.</li>
+        <li>Focus: Product listing, ordering & delivery flow.</li>
       </ul>
     </td>
-    <td width="50%">
-      <h4>Quite Mate – Smoke Tracking App</h4>
+
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/ishfak07/Quite-Mate" target="_blank">Quite Mate — Smoke Tracking App</a></h4>
       <ul>
-        <li>Flutter + Firebase mobile app</li>
-        <li>Tracks smoking habits & provides analytics</li>
+        <li>Mobile app built with Flutter & Firebase — user analytics and reminders.</li>
       </ul>
     </td>
   </tr>
@@ -115,31 +206,36 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishfak07&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://streak-stats.demolab.com/?user=ishfak07&theme=tokyonight" height="160px"/>
-</div>
+<!-- Aligned stat cards -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ishfak07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="320"/>
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=ishfak07&theme=tokyonight&hide_border=true" alt="Streak stats" width="320"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishfak07&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="320"/>
+    </td>
+  </tr>
+</table>
 
+<!-- Contribution calendar (stable service) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishfak07&layout=compact&theme=tokyonight" height="160px"/>
+  <img src="https://ghchart.rshah.org/ishfak07" alt="Contribution chart for ishfak07" width="90%"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/ishfak07/ishfak07/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
+## 📬 Contact
+
+- Email: memberofpfc20@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/faizul-ishfaque  
+- Portfolio: https://ishfak07.github.io/My_portfol.io/
 
 ---
 
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishfak07&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
-</p>
-
----
-
-<p align="center"><b>✨ Keep Learning. Keep Building. Keep Growing. 🚀</b></p>
+<p align="center"><b>✨ Keep learning. Keep building. Keep shipping. 🚀</b></p>
