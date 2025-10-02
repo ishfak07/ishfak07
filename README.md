@@ -27,15 +27,20 @@
 </p>
 
 ---
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-# 👋 About Me  
+# 💫 About Me
 
-**M. I. F. Ishfaque** — Software Engineer | BSc (Hons) Computer Science (2nd Lower)  
-📍 Puttalam, Sri Lanka  
-
-🎯 Passionate about building reliable web systems, ERP customizations (Frappe), and automation.  
-
----
+```typescript
+const ishfak = {
+    role: "Full Stack Developer",
+    workingAt: "Imara",
+    code: [".NET", "Angular", "TypeScript", "C#"],
+    architecture: ["microservices", "event-driven", "cloud-native"],
+    currentFocus: "Building scalable enterprise solutions",
+    funFact: "I debug with coffee and solve problems with code! ☕️"
+};
+```
 
 ## 🎓 Education | 📜 Certifications | 💼 Experience  
 
