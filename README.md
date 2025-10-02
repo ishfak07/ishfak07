@@ -55,19 +55,6 @@ const ishfaque = {
 
 ## Technolgy 💻
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -90,12 +77,12 @@ const ishfaque = {
       <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="65" height="65" />
       <br>CSS3
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
       <br>Node.js
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="65" height="65" />
       <br>Flutter
@@ -112,10 +99,20 @@ const ishfaque = {
       <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
       <br>MongoDB
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=trello" alt="Trello" width="65" height="65" />
+      <br>Trello
+    </td>
   </tr>
 </table>
 
-</details>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,nodejs,flutter,dart,react,mongodb,github,trello&theme=dark" />
+</div>
 
 ### 🎓 Education
 - **University of Plymouth** — BSc (Hons) Computer Science (2022 - 2025)  
