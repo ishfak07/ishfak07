@@ -76,7 +76,7 @@
 ---
 
 
-# 🚀 M. I. F. Ishfaque — Featured Projects
+# 🚀 Featured Projects
 
 
 
@@ -150,10 +150,16 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishfak07&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=ishfak07&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishfak07&layout=compact&theme=tokyonight" height="150"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ishfak07&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Ishfaque's GitHub Stats"/>
+  
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=ishfak07&theme=tokyonight&hide_border=true" height="150" alt="Ishfaque's GitHub Streak"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishfak07&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Ishfaque's Top Languages"/>
 </p>
+
 
 ---
 
