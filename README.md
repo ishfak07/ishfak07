@@ -156,18 +156,12 @@
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=ishfak07&theme=tokyonight&hide_border=true" height="150" alt="Ishfaque's GitHub Streak"/>
   
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishfak07&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Ishfaque's Top Languages"/>
-</p>
-
-
 ---
 
-## 🐍 Contribution Snake  
+## 🐍 Top Languages  
 
-<p align="center">
-  <!-- GitHub Contribution Graph -->
-  ![GitHub Contributions](https://ghchart.rshah.org/ishfak07)
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishfak07&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Ishfaque's Top Languages"/>
 </p>
 
 ## 📬 Contact  
