@@ -79,39 +79,42 @@
 
 <div align="center">
 
-  <!-- HireMe -->
-  <a href="https://github.com/ishfak07/HireMe">
-    <img src="https://github.com/ishfak07/HireMe/raw/main/preview.png" width="400" alt="HireMe Project"/>
-  </a>
-  <br/>
-  <b>HireMe – Service Hiring Platform</b>  
-  <p>Web-based platform connecting service providers with users. Features OTP-based verification, booking, transparent pricing, and real-time notifications.</p>
+### 🌟 HireMe – Service Hiring Platform  
+<a href="https://github.com/ishfak07/HireMe">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=HireMe&theme=radical&show_owner=true" />
+</a>  
+🔹 Web-based platform connecting service providers with users  
+🔹 OTP verification • Booking system • Real-time notifications  
 
-  <!-- SmartRise Puttalam -->
-  <a href="https://github.com/ishfak07/SmartRise-Puttalam">
-    <img src="https://github.com/ishfak07/SmartRise-Puttalam/raw/main/preview.png" width="400" alt="SmartRise Project"/>
-  </a>
-  <br/>
-  <b>SmartRise Puttalam – Smart City Website</b>  
-  <p>A smart city platform showcasing digital transformation in Puttalam with modern UI/UX, services, and sustainability insights.</p>
+---
 
-  <!-- Sweet Delights -->
-  <a href="https://github.com/ishfak07/Sweet-Delights">
-    <img src="https://github.com/ishfak07/Sweet-Delights/raw/main/preview.png" width="400" alt="Sweet Delights Project"/>
-  </a>
-  <br/>
-  <b>Sweet Delights – Bakery Website</b>  
-  <p>Online ordering system for a Sri Lankan bakery, covering products, payments, delivery, and customer engagement.</p>
+### 🌆 SmartRise Puttalam – Smart City Website  
+<a href="https://github.com/ishfak07/SmartRise-Puttalam">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=SmartRise-Puttalam&theme=radical&show_owner=true" />
+</a>  
+🔹 Smart city platform for digital transformation  
+🔹 Modern UI/UX • Service access • Sustainability insights  
 
-  <!-- Quite Mate -->
-  <a href="https://github.com/ishfak07/Quite-Mate">
-    <img src="https://github.com/ishfak07/Quite-Mate/raw/main/preview.png" width="400" alt="Quite Mate Project"/>
-  </a>
-  <br/>
-  <b>Quite Mate – Smoke Tracking App</b>  
-  <p>A mobile app built with Flutter + Firebase to track and manage smoking habits with real-time progress monitoring.</p>
+---
+
+### 🥐 Sweet Delights – Bakery Website  
+<a href="https://github.com/ishfak07/Sweet-Delights">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=Sweet-Delights&theme=radical&show_owner=true" />
+</a>  
+🔹 Online bakery ordering system  
+🔹 Products • Payments • Delivery • Customer feedback  
+
+---
+
+### 📱 Quite Mate – Smoke Tracking App  
+<a href="https://github.com/ishfak07/Quite-Mate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=Quite-Mate&theme=radical&show_owner=true" />
+</a>  
+🔹 Flutter + Firebase app for smoke tracking  
+🔹 Real-time habit tracking • User progress analytics  
 
 </div>
+
 
 
 ## 📊 GitHub Analytics  
