@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/A6bWGFl.gif" width="600" alt="Banner" />
 </p>
 
-<h1 align="center">Mohamed Umair</h1>
+<h1 align="center">Faizul ishfak</h1>
 <p align="center"><em>Full Stack Developer</em></p>
 
 <!-- Typing animation SVG: edit 'lines' for your tagline -->
