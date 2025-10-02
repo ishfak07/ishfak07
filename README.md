@@ -38,8 +38,14 @@ const ishfaque = {
     code: ["Java", "JavaScript", "HTML", "CSS", "Node.js", "Flutter", "Dart"],
     architecture: ["Web Applications", "Mobile Applications", "Responsive Design"],
     currentFocus: "Creating user-friendly web and mobile solutions",
-    funFact: "I design, code, and debug with a cup of tea! ☕️"
+    funFact: "I design, code, and debug with a cup of tea! ☕️",
+    contact: {
+        email: "your-email@example.com",
+        github: "https://github.com/ishfak07"
+    },
+    learning: ["OpenGL", "Agile Methodologies", "Cloud Services"]
 };
+
 
 
 ```
