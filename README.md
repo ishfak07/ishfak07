@@ -102,18 +102,18 @@ const ishfaque = {
   </tr>
 </table>
 
-### 🎓 Education
+##🎓 Education
 - **University of Plymouth** — BSc (Hons) Computer Science (2022 - 2025)  
 - **NSBM Green University** — BSc (Hons) Computer Science (2022 - 2025)  
 - **Refresh College** — NVQ 4 (Computer Science)  
 
-### 📜 Certifications
+## 📜 Certifications
 - CPICS (NVQ Level 4-like syllabus)  
 - Diploma in Computer Applications  
 - Graphic & Digital Designing  
 - Computer Hardware  
 
-### 💼 Experience
+## 💼 Experience
 **Imara Software Solutions** — Software Engineer Intern  
 *Sep 2025 - Present • Puttalam, Sri Lanka*  
 - Contributed to coding, testing, and documentation for production features  
