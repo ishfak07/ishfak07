@@ -5,12 +5,7 @@
 
 
 
-<!-- ✨ Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+Intern+at+Imara+Software+Solutions;Building+scalable+solutions+with+❤️;Web+Development+|+MERN+Stack+|+ERP+Solutions;Automation+%7C+Agile+Methodology+%7C+Problem+Solving" alt="Typing SVG" />
-</p>
 
----
 <!-- README.md for Faizul Ishfak (GitHub-Optimized) -->
 
 <p align="center">
