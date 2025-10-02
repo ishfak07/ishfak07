@@ -79,31 +79,31 @@
 
 ---
 
-### 🌟 HireMe – Service Hiring Platform
-[![HireMe](https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=HireMe&theme=radical&show_owner=true)](https://github.com/ishfak07/HireMe)  
-🔹 Web-based platform connecting service providers with users  
+### 🌟 FurniVUE – Furniture Website
+[![FurniVUE](https://raw.githubusercontent.com/ishfak07/FurniVUE/main/screenshot.png)](https://github.com/ishfak07/FurniVUE)  
+🔹 Modern furniture website  
+🔹 Products display • Online browsing • User-friendly interface  
+
+---
+
+### 🌟 Hire_Me – Service Hiring Platform
+[![Hire_Me](https://raw.githubusercontent.com/ishfak07/Hire_Me-/main/screenshot.png)](https://github.com/ishfak07/Hire_Me-)  
+🔹 Connects service providers with users  
 🔹 OTP verification • Booking system • Real-time notifications  
 
 ---
 
-### 🌆 SmartRise Puttalam – Smart City Website
-[![SmartRise Puttalam](https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=SmartRise-Puttalam&theme=radical&show_owner=true)](https://github.com/ishfak07/SmartRise-Puttalam)  
-🔹 Smart city platform for digital transformation  
-🔹 Modern UI/UX • Service access • Sustainability insights  
-
----
-
-### 🥐 Sweet Delights – Bakery Website
-[![Sweet Delights](https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=Sweet-Delights&theme=radical&show_owner=true)](https://github.com/ishfak07/Sweet-Delights)  
-🔹 Online bakery ordering system  
-🔹 Products • Payments • Delivery • Customer feedback  
-
----
-
-### 📱 Quite Mate – Smoke Tracking App
-[![Quite Mate](https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=Quite-Mate&theme=radical&show_owner=true)](https://github.com/ishfak07/Quite-Mate)  
-🔹 Flutter + Firebase app for smoke tracking  
+### 📱 QuiteMate – Smoke Tracking App
+[![QuiteMate](https://raw.githubusercontent.com/umiloop/QuiteMate/main/screenshot.png)](https://github.com/umiloop/QuiteMate)  
+🔹 Flutter + Firebase smoke tracking app  
 🔹 Real-time habit tracking • User progress analytics  
+
+---
+
+### 🖥️ My_Portfol.io – Personal Portfolio
+[![My_Portfol.io](https://raw.githubusercontent.com/ishfak07/My_portfol.io/main/screenshot.png)](https://github.com/ishfak07/My_portfol.io)  
+🔹 Personal portfolio website  
+🔹 Projects showcase • Contact info • Modern design  
 
 
 
