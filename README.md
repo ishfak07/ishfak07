@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Faizul%20Ishfaque&width=800&height=200" alt="Glitch Banner"/>
+  <img src="https://svg-banners.vercel.app/api?type=waving&text1=Faizul%20Ishfaque&width=800&height=200&fontSize=40" alt="Waving Banner"/>
 </p>
 
 
