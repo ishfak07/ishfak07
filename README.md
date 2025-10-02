@@ -81,6 +81,9 @@
 
 ### 🌟 FurniVUE – Furniture Website
 [![FurniVUE](https://raw.githubusercontent.com/ishfak07/FurniVUE/main/screenshot.png)](https://github.com/ishfak07/FurniVUE)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+
 🔹 Modern furniture website  
 🔹 Products display • Online browsing • User-friendly interface  
 
@@ -102,6 +105,9 @@
 
 ### 🖥️ My_Portfol.io – Personal Portfolio
 [![My_Portfol.io](https://raw.githubusercontent.com/ishfak07/My_portfol.io/main/screenshot.png)](https://github.com/ishfak07/My_portfol.io)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+
 🔹 Personal portfolio website  
 🔹 Projects showcase • Contact info • Modern design  
 
