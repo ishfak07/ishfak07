@@ -79,19 +79,37 @@
 
 <div align="center">
 
+  <!-- HireMe -->
   <a href="https://github.com/ishfak07/HireMe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=HireMe&theme=tokyonight" />
+    <img src="https://github.com/ishfak07/HireMe/raw/main/preview.png" width="400" alt="HireMe Project"/>
   </a>
-  <a href="https://github.com/ishfak07/SmartRise-Puttalam">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=SmartRise-Puttalam&theme=tokyonight" />
-  </a>
+  <br/>
+  <b>HireMe – Service Hiring Platform</b>  
+  <p>Web-based platform connecting service providers with users. Features OTP-based verification, booking, transparent pricing, and real-time notifications.</p>
 
+  <!-- SmartRise Puttalam -->
+  <a href="https://github.com/ishfak07/SmartRise-Puttalam">
+    <img src="https://github.com/ishfak07/SmartRise-Puttalam/raw/main/preview.png" width="400" alt="SmartRise Project"/>
+  </a>
+  <br/>
+  <b>SmartRise Puttalam – Smart City Website</b>  
+  <p>A smart city platform showcasing digital transformation in Puttalam with modern UI/UX, services, and sustainability insights.</p>
+
+  <!-- Sweet Delights -->
   <a href="https://github.com/ishfak07/Sweet-Delights">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=Sweet-Delights&theme=tokyonight" />
+    <img src="https://github.com/ishfak07/Sweet-Delights/raw/main/preview.png" width="400" alt="Sweet Delights Project"/>
   </a>
+  <br/>
+  <b>Sweet Delights – Bakery Website</b>  
+  <p>Online ordering system for a Sri Lankan bakery, covering products, payments, delivery, and customer engagement.</p>
+
+  <!-- Quite Mate -->
   <a href="https://github.com/ishfak07/Quite-Mate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishfak07&repo=Quite-Mate&theme=tokyonight" />
+    <img src="https://github.com/ishfak07/Quite-Mate/raw/main/preview.png" width="400" alt="Quite Mate Project"/>
   </a>
+  <br/>
+  <b>Quite Mate – Smoke Tracking App</b>  
+  <p>A mobile app built with Flutter + Firebase to track and manage smoking habits with real-time progress monitoring.</p>
 
 </div>
 
