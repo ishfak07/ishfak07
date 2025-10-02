@@ -75,41 +75,74 @@
 
 ---
 
-## 🚀 Featured Projects  
+
+# 🚀 M. I. F. Ishfaque — Featured Projects
+
+
+
+## 🌟 FurniVUE – Interactive Interior Design Application
+[![FurniVUE](https://raw.githubusercontent.com/ishfak07/FurniVUE/main/Screenshot%202025-09-25%20114511.png)](https://github.com/ishfak07/FurniVUE)  
+
+🔹 Interactive desktop application for interior design visualization  
+🔹 Features: 2D & 3D room layouts, customizable furniture placement, undo/reset interactions  
+🔹 Usability testing & Agile Scrum methodology  
+
+**Technologies:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![Java Swing](https://img.shields.io/badge/Java%20Swing-6DB33F?style=for-the-badge) 
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+[Repo Link](https://github.com/ishfak07/FurniVUE)  
 
 ---
 
-### 🌟 FurniVUE – Furniture Website
-[![FurniVUE](https://raw.githubusercontent.com/ishfak07/FurniVUE/main/screenshot.png)](https://github.com/ishfak07/FurniVUE)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+## 🌟 Hire_Me – Web-Based Service Platform
+[![Hire_Me](https://raw.githubusercontent.com/ishfak07/Hire_Me-/main/Screenshot%20194.png)](https://github.com/ishfak07/Hire_Me-)  
 
-🔹 Modern furniture website  
-🔹 Products display • Online browsing • User-friendly interface  
+🔹 Connects service needers with verified service providers  
+🔹 Features: OTP password recovery, real-time notifications (Socket.IO), booking system, mobile-friendly  
 
----
+**Technologies:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) 
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-### 🌟 Hire_Me – Service Hiring Platform
-[![Hire_Me](https://raw.githubusercontent.com/ishfak07/Hire_Me-/main/screenshot.png)](https://github.com/ishfak07/Hire_Me-)  
-🔹 Connects service providers with users  
-🔹 OTP verification • Booking system • Real-time notifications  
-
----
-
-### 📱 QuiteMate – Smoke Tracking App
-[![QuiteMate](https://raw.githubusercontent.com/umiloop/QuiteMate/main/screenshot.png)](https://github.com/umiloop/QuiteMate)  
-🔹 Flutter + Firebase smoke tracking app  
-🔹 Real-time habit tracking • User progress analytics  
+[Repo Link](https://github.com/ishfak07/Hire_Me-)  
 
 ---
 
-### 🖥️ My_Portfol.io – Personal Portfolio
-[![My_Portfol.io](https://raw.githubusercontent.com/ishfak07/My_portfol.io/main/screenshot.png)](https://github.com/ishfak07/My_portfol.io)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+## 🖥️ My_Portfol.io – Personal Portfolio Website
+[![My_Portfol.io](https://raw.githubusercontent.com/ishfak07/My_portfol.io/main/Screenshot%202025-09-25%20114350.png)](https://ishfak07.github.io/My_portfol.io/)  
 
-🔹 Personal portfolio website  
-🔹 Projects showcase • Contact info • Modern design  
+🔹 Showcases my software engineering projects, skills, and contact info  
+🔹 Features: Mobile-first responsive design, CSS animations, accessibility, Formspree contact form  
+
+**Technologies:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+[Live Demo](https://ishfak07.github.io/My_portfol.io/) | [Repo Link](https://github.com/ishfak07/My_portfol.io)  
+
+---
+
+## 📱 QuiteMate – Smoking Cessation Mobile Application
+[![QuiteMate](https://raw.githubusercontent.com/umiloop/QuiteMate/main/Screenshot%20190.png)](https://github.com/umiloop/QuiteMate)  
+
+🔹 Cross-platform mobile app to support quitting smoking  
+🔹 Features: Habit tracking, personalized quit plans, motivational tips, community support  
+
+**Technologies:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+[Repo Link](https://github.com/umiloop/QuiteMate)  
+
+---
 
 
 
