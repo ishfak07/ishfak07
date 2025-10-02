@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=700&lines=Faizul+Ishfak;Software+Engineer;MERN+Stack+Developer;ERP+%7C+Agile+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=gradient&height=180&text=Faizul%20Ishfak&fontSize=40&animation=twinkling&color=0:EC4899,50:6D28D9,100:1E3A8A" alt="header"/>
 </p>
+
 
 <!-- README.md for Faizul Ishfak (GitHub-Optimized) -->
 
