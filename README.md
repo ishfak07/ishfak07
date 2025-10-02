@@ -1,3 +1,20 @@
+<!-- 🌟 Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Faizul%20Ishfak&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,3,10,20,30" alt="header"/>
+</p>
+
+<!-- 👨‍💻 Title & Role -->
+<h1 align="center">Hi 👋, I'm Faizul Ishfak</h1>
+<p align="center"><b>Software Engineer | BSc (Hons) Computer Science | MERN | ERP | Agile</b></p>
+
+---
+
+<!-- ✨ Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+Intern+at+Imara+Software+Solutions;Building+scalable+solutions+with+❤️;Web+Development+|+MERN+Stack+|+ERP+Solutions;Automation+%7C+Agile+Methodology+%7C+Problem+Solving" alt="Typing SVG" />
+</p>
+
+---
 <!-- README.md for Faizul Ishfak (GitHub-Optimized) -->
 
 <p align="center">
