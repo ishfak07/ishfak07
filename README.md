@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Faizul%20Ishfak&fontSize=40&animation=fadeIn"/>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Faizul%20Ishfaque&width=800&height=200" alt="Glitch Banner"/>
 </p>
+
 
 
 
