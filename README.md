@@ -1,7 +1,7 @@
-<!-- 🌟 Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Faizul%20Ishfak&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,3,10,20,30" alt="header"/>
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/animated-banner.svg" width="100%" alt="banner"/>
 </p>
+
 
 <!-- README.md for Faizul Ishfak (GitHub-Optimized) -->
 
