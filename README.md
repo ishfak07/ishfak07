@@ -58,61 +58,57 @@ const ishfaque = {
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/ishfak07/assets/main/java.gif" alt="Java" width="65" height="65" />
       <br>Java
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/ishfak07/assets/main/javascript.gif" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/ishfak07/assets/main/typescript.gif" alt="TypeScript" width="65" height="65" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/ishfak07/assets/main/html5.gif" alt="HTML5" width="65" height="65" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/ishfak07/assets/main/css3.gif" alt="CSS3" width="65" height="65" />
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/ishfak07/assets/main/nodejs.gif" alt="Node.js" width="65" height="65" />
       <br>Node.js
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/ishfak07/assets/main/flutter.gif" alt="Flutter" width="65" height="65" />
       <br>Flutter
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/ishfak07/assets/main/dart.gif" alt="Dart" width="65" height="65" />
       <br>Dart
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/ishfak07/assets/main/react.gif" alt="React" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/ishfak07/assets/main/mongodb.gif" alt="MongoDB" width="65" height="65" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/ishfak07/assets/main/github.gif" alt="GitHub" width="65" height="65" />
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=trello" alt="Trello" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/ishfak07/assets/main/trello.gif" alt="Trello" width="65" height="65" />
       <br>Trello
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,nodejs,flutter,dart,react,mongodb,github,trello&theme=dark" />
-</div>
 
 ### 🎓 Education
 - **University of Plymouth** — BSc (Hons) Computer Science (2022 - 2025)  
