@@ -215,7 +215,7 @@ const ishfaque = {
   
 ---
 ## 🐍 contribution Graph
-![snake gif](https://github.com/ishfak07/ishfak07/blob/output/github-snake.svg)
+![snake gif](https://github.com/ishfak07/ishfak07/blob/output/github-snake-dark.svg)
 
 ## ☑️ Top Languages  
 
