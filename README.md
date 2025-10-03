@@ -222,15 +222,7 @@ const ishfaque = {
 </p>
 
 ## 🐍 contribution Graph
-</div>
- <br/><br/><br>
-<div align="center">
-  <h2>My Contributions Graph 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/ishffak07/ishfak07/blob/output/github-snake-dark.svg" />
-
-  <br/></br> 
-</div>
+![snake gif](https://github.com/ishfak07/ishfak07/blob/output/github-snake-dark.svg)
 
 ## 📬 Contact  
 
