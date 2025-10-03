@@ -215,11 +215,22 @@ const ishfaque = {
   
 ---
 
-## 🐍 Top Languages  
+## ☑️ Top Languages  
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishfak07&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Ishfaque's Top Languages"/>
 </p>
+
+## 🐍 contribution Graph
+</div>
+ <br/><br/><br>
+<div align="center">
+  <h2>My Contributions Graph 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Fayaal/Fayaal/output/github-contribution-grid-snake-dark.svg" />
+
+  <br/></br> 
+</div>
 
 ## 📬 Contact  
 
