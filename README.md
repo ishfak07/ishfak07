@@ -214,15 +214,14 @@ const ishfaque = {
   <img src="https://streak-stats.demolab.com?user=ishfak07&theme=tokyonight&hide_border=true" height="150" alt="Ishfaque's GitHub Streak"/>
   
 ---
+## 🐍 contribution Graph
+![snake gif](https://github.com/ishfak07/ishfak07/blob/output/github-snake-dark.svg)
 
 ## ☑️ Top Languages  
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishfak07&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Ishfaque's Top Languages"/>
 </p>
-
-## 🐍 contribution Graph
-![snake gif](https://github.com/ishfak07/ishfak07/blob/output/github-snake-dark.svg)
 
 ## 📬 Contact  
 
