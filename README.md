@@ -44,7 +44,7 @@ const ishfaque = {
     },
 ```
 
-## 🎓 Education | 📜 Certifications | 💼 Experience  
+## 🎓 Education | 📜 Certifications | 💼 Experience 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Education-🎓-6D28D9?style=for-the-badge" />
