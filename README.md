@@ -1,4 +1,4 @@
-<!-- animated banner -->  
+<!-- animated banner -->   
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=%20Ishfaque&width=800&height=200" alt="Super Glitch Banner"/>
 </p>
