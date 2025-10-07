@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Software+Engineer+Intern+at+Imara+Software+Solutions;Building+scalable+solutions+with+❤️;MERN+•+ERP+•+Automation+•+Testing+•+Agile;Rumi+Love" alt="Typing SVG"/>
 </p>
+
 ---
 
 <!-- CONTACT / BADGES -->
