@@ -3,13 +3,7 @@
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=%20Ishfaque&width=800&height=200" alt="Super Glitch Banner"/>
 </p>
 
-<!-- README.md for Faizul Ishfak (GitHub-Optimized) -->  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ishfak07/ishfak07/main/assets/banner.gif" alt="Animated Banner" width="100%"/>
-</p>
-
----
 
 <!-- Typing Tagline -->
 <p align="center">
