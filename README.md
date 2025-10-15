@@ -37,8 +37,6 @@ const ishfaque = {
     },
 ```
 
-## 🎓 Education | 📜 Certifications | 💼 Experience 
-
 <p align="left">
   <img src="https://img.shields.io/badge/Education-🎓-6D28D9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Certifications-📜-1E90FF?style=for-the-badge" />
@@ -95,7 +93,9 @@ const ishfaque = {
   </tr>
 </table>
 
-##🎓 Education
+## 🎓 Education | 📜 Certifications | 💼 Experience 
+
+## 🎓 Education
 - **University of Plymouth** — BSc (Hons) Computer Science (2022 - 2025)  
 - **NSBM Green University** — BSc (Hons) Computer Science (2022 - 2025)  
 - **Refresh College** — NVQ 4 (Computer Science)  
