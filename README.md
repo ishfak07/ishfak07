@@ -39,115 +39,25 @@ const ishfaque = {
 
 ## Technolgy 💻
 
-<!-- Skills Grid (Responsive, Dark‑mode friendly) -->
-<div align="center">
+<h3 align="center">Tech Stack</h3>
+<p align="center">Core languages, frameworks, and databases used in projects</p>
 
-  <!-- Title -->
-  <h3 style="margin: 0 0 12px; font-weight: 700;">Tech Stack</h3>
-  <p style="margin: 0 0 20px; opacity: .8;">Core languages, frameworks, and databases used in projects</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="55" height="55"/>
+</p>
 
-  <!-- Grid wrapper -->
-  <div style="
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(96px, 1fr));
-    gap: 16px;
-    max-width: 680px;
-    margin: 0 auto;
-  ">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="55" height="55"/>
+</p>
 
-    <!-- Item -->
-    <div style="text-align:center; padding:12px; border-radius:12px;
-                background: rgba(127,127,127,.08);
-                transition: transform .18s ease, box-shadow .18s ease;">
-      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" />
-      <div style="margin-top:8px; font-weight:600;">Java</div>
-    </div>
-
-    <div style="text-align:center; padding:12px; border-radius:12px;
-                background: rgba(127,127,127,.08);
-                transition: transform .18s ease, box-shadow .18s ease;">
-      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="65" height="65" />
-      <div style="margin-top:8px; font-weight:600;">JavaScript</div>
-    </div>
-
-    <div style="text-align:center; padding:12px; border-radius:12px;
-                background: rgba(127,127,127,.08);
-                transition: transform .18s ease, box-shadow .18s ease;">
-      <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="65" height="65" />
-      <div style="margin-top:8px; font-weight:600;">TypeScript</div>
-    </div>
-
-    <div style="text-align:center; padding:12px; border-radius:12px;
-                background: rgba(127,127,127,.08);
-                transition: transform .18s ease, box-shadow .18s ease;">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65" />
-      <div style="margin-top:8px; font-weight:600;">HTML5</div>
-    </div>
-
-    <div style="text-align:center; padding:12px; border-radius:12px;
-                background: rgba(127,127,127,.08);
-                transition: transform .18s ease, box-shadow .18s ease;">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="65" height="65" />
-      <div style="margin-top:8px; font-weight:600;">CSS3</div>
-    </div>
-
-    <div style="text-align:center; padding:12px; border-radius:12px;
-                background: rgba(127,127,127,.08);
-                transition: transform .18s ease, box-shadow .18s ease;">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
-      <div style="margin-top:8px; font-weight:600;">Node.js</div>
-    </div>
-
-    <div style="text-align:center; padding:12px; border-radius:12px;
-                background: rgba(127,127,127,.08);
-                transition: transform .18s ease, box-shadow .18s ease;">
-      <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="65" height="65" />
-      <div style="margin-top:8px; font-weight:600;">Flutter</div>
-    </div>
-
-    <div style="text-align:center; padding:12px; border-radius:12px;
-                background: rgba(127,127,127,.08);
-                transition: transform .18s ease, box-shadow .18s ease;">
-      <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="65" height="65" />
-      <div style="margin-top:8px; font-weight:600;">Dart</div>
-    </div>
-
-    <div style="text-align:center; padding:12px; border-radius:12px;
-                background: rgba(127,127,127,.08);
-                transition: transform .18s ease, box-shadow .18s ease;">
-      <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" />
-      <div style="margin-top:8px; font-weight:600;">React</div>
-    </div>
-
-    <div style="text-align:center; padding:12px; border-radius:12px;
-                background: rgba(127,127,127,.08);
-                transition: transform .18s ease, box-shadow .18s ease;">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
-      <div style="margin-top:8px; font-weight:600;">MongoDB</div>
-    </div>
-
-  </div>
-
-  <!-- Optional small note -->
-  <p style="margin: 14px 0 0; font-size: 12px; opacity: .7;">
-    Hover for a subtle lift • Add more by duplicating a card
-  </p>
-</div>
-
-<!-- Lightweight hover effect for GitHub README (ignored in most markdown renderers but safe) -->
-<style>
-  /* This block is ignored by GitHub sanitization in READMEs,
-     but works on many personal sites. Safe to keep. */
-  div[style*="grid"] > div:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 24px rgba(0,0,0,.12);
-  }
-  @media (prefers-color-scheme: dark) {
-    div[style*="grid"] > div {
-      background: rgba(255,255,255,.06) !important;
-    }
-  }
-</style>
 
 
 <p align="left">
