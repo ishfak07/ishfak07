@@ -1,11 +1,12 @@
-<!-- Animated Banner -->
+<!-- animated banner -->       
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Ishfaque&width=900&height=200" alt="Glitch Banner"/>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=%20Ishfaque&width=800&height=200" alt="Super Glitch Banner"/>
 </p>
+
 
 <!-- Typing Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=1000&color=F8F8FF&center=true&vCenter=true&width=700&lines=Software+Engineer+Intern+at+Imara+Software+Solutions;Building+scalable+solutions+with+❤️;MERN+•+ERP+•+Automation+•+Testing+•+Agile;Rumi+Love"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=1000&color=F8F8FF&center=true&vCenter=true&width=650&lines=Software+Engineer+Intern+at+Imara+Software+Solutions;Building+scalable+solutions+with+❤️;MERN+•+ERP+•+Automation+•+Testing+•+Agile;Rumi+Love" alt="Typing SVG"/>
 </p>
 
 ---
@@ -19,157 +20,180 @@
 </p>
 
 ---
-
-<img align="right" alt="Coding" width="350" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif"/>
+<img align="right" alt="Coding" width="365" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif"/>
 
 # 💫 About Me
 
+```typescript
 const ishfaque = {
-role: "Full Stack Developer",
-workingAt: "Self / Freelance",
-code: ["Java", "JavaScript", "HTML", "CSS", "Node.js", "Flutter", "Dart"],
-architecture: ["Web Applications", "Mobile Applications", "Responsive Design"],
-funFact: "I design, code, and debug with a cup of tea! ☕️",
-contact: {
-email: "memberofpfc20@gmail.com",
-github: "https://github.com/ishfak07"
-}
-};
----
+    role: "Full Stack Developer",
+    workingAt: "Self / Freelance",
+    code: ["Java", "JavaScript", "HTML", "CSS", "Node.js", "Flutter", "Dart"],
+    architecture: ["Web Applications", "Mobile Applications", "Responsive Design"],
+    funFact: "I design, code, and debug with a cup of tea! ☕️",
+    contact: {
+        email: "your-email@example.com",
+        github: "https://github.com/ishfak07"
+    },
+```
 
-## 💻 Technology Stack
+## Technolgy 💻
 
-<h3 align="center">Core Languages, Frameworks & Databases</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,typescript,html,css" height="60" alt="Languages"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,flutter,dart,react,mongodb" height="60" alt="Frameworks"/>
-</p>
+<h3 align="center">Tech Stack</h3>
+<p align="center">Core languages, frameworks, and databases used in projects</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Education-🎓-6D28D9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Certifications-📜-1E90FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Experience-💼-EC4899?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="55" height="55"/>
 </p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="55" height="55"/>
+</p>
+
+
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Education-🎓-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Certifications-📜-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-💼-EC4899?style=for-the-badge" />
+</p>
 
 ## 🎓 Education
-
-- **University of Plymouth** — BSc (Hons) Computer Science (2022–2025)  
-- **NSBM Green University** — BSc (Hons) Computer Science (2022–2025)  
-- **Refresh College** — NVQ 4 (Computer Science)
-
----
+- **University of Plymouth** — BSc (Hons) Computer Science (2022 - 2025)  
+- **NSBM Green University** — BSc (Hons) Computer Science (2022 - 2025)  
+- **Refresh College** — NVQ 4 (Computer Science)  
 
 ## 📜 Certifications
-
-- CPICS (NVQ Level 4-equivalent)  
+- CPICS (NVQ Level 4-like syllabus)  
 - Diploma in Computer Applications  
-- Graphic & Digital Design  
+- Graphic & Digital Designing  
 - Computer Hardware  
 
----
-
 ## 💼 Experience
-
-**Imara Software Solutions** — *Software Engineer Intern*  
-*Sep 2025 – Present • Puttalam, Sri Lanka*  
+**Imara Software Solutions** — Software Engineer Intern  
+*Sep 2025 - Present • Puttalam, Sri Lanka*  
 - Contributed to coding, testing, and documentation for production features  
 - Improved feature reliability and performance with senior engineers  
 - Participated in sprint planning and QA coverage  
 
 ---
 
-## 🛠️ Top Skills
+## 🛠️ Top Skills  
 
-- HTML5, CSS3 (animations & responsive design)  
-- JavaScript, ReactJS, Node.js, Express, MongoDB (MERN)  
+- HTML5, CSS3 (responsive & animations), JavaScript  
+- ReactJS, Node.js, Express, MongoDB (MERN)  
 - Python, FastAPI/Django, SQL  
-- Docker, Azure, CI/CD with GitHub Actions  
-- ERP (Frappe), System Design, QA & Testing  
+- Docker, Azure, CI/CD (GitHub Actions)  
+- ERP (Frappe), System design, QA & testing  
 
 ---
+
 
 # 🚀 Featured Projects
 
-### 🌟 FurniVUE – Interactive Interior Design App
-[![FurniVUE](https://raw.githubusercontent.com/ishfak07/FurniVUE/main/Screenshot%202025-09-25%20114511.png)](https://github.com/ishfak07/FurniVUE)
-Interactive desktop application for interior design visualization.  
-**Features:** 2D/3D layouts, furniture placement, undo/reset UI.  
-**Technologies:** Java, Java Swing, OpenGL, GitHub
 
-[Repo Link](https://github.com/ishfak07/FurniVUE)
 
----
+## 🌟 FurniVUE – Interactive Interior Design Application
+[!FurniVUE](https://github.com/ishfak07/FurniVUE)  
 
-### 🌟 Hire_Me – Web-Based Service Platform
-[![Hire_Me](https://raw.githubusercontent.com/ishfak07/Hire_Me-/main/Screenshot%20194.png)](https://github.com/ishfak07/Hire_Me-)
-Connects users with verified service providers.  
-**Features:** OTP recovery, real-time notifications, booking, responsive UI.  
-**Technologies:** JavaScript, Node.js, Express, MongoDB, CSS3
+🔹 Interactive desktop application for interior design visualization  
+🔹 Features: 2D & 3D room layouts, customizable furniture placement, undo/reset interactions  
+🔹 Usability testing & Agile Scrum methodology  
 
-[Repo Link](https://github.com/ishfak07/Hire_Me-)
+**Technologies:**  
+!Java 
+!Java Swing 
+!OpenGL 
+!GitHub  
 
----
-
-### 🌟 My_Portfol.io – Personal Portfolio Website
-[![My_Portfol.io](https://raw.githubusercontent.com/ishfak07/My_portfol.io/main/Screenshot%202025-09-25%20114350.png)](https://ishfak07.github.io/My_portfol.io/)
-Showcases projects, skills, and contact info.  
-**Features:** Mobile-first design, CSS animations, Formspree contact.  
-**Technologies:** HTML5, CSS3, JavaScript  
-
-[Live Demo](https://ishfak07.github.io/My_portfol.io/) • [Repo Link](https://github.com/ishfak07/My_portfol.io)
+Repo Link  
 
 ---
 
-### 🌟 QuiteMate – Smoking Cessation Mobile App
-[![QuiteMate](https://raw.githubusercontent.com/umiloop/QuiteMate/main/Screenshot%20190.png)](https://github.com/umiloop/QuiteMate)
-Cross-platform app supporting quit plans.  
-**Features:** Habit tracking, motivation tips, community support.  
-**Technologies:** Flutter, Firebase, GitHub  
+## 🌟 Hire_Me – Web-Based Service Platform
+[!Hire_Me](https://github.com/ishfak07/Hire_Me-)  
 
-[Repo Link](https://github.com/umiloop/QuiteMate)
+🔹 Connects service needers with verified service providers  
+🔹 Features: OTP password recovery, real-time notifications (Socket.IO), booking system, mobile-friendly  
+
+**Technologies:**  
+!JavaScript 
+!Node.js 
+!Express 
+!MongoDB 
+!CSS3  
+
+Repo Link  
 
 ---
 
-## 📊 GitHub Analytics
+## 🖥️ My_Portfol.io – Personal Portfolio Website
+[!My_Portfol.io](https://ishfak07.github.io/My_portfol.io/)  
+
+🔹 Showcases my software engineering projects, skills, and contact info  
+🔹 Features: Mobile-first responsive design, CSS animations, accessibility, Formspree contact form  
+
+**Technologies:**  
+!HTML5 
+!CSS3 
+!JavaScript  
+
+Live Demo | Repo Link  
+
+---
+
+## 📱 QuiteMate – Smoking Cessation Mobile Application
+[!QuiteMate](https://github.com/umiloop/QuiteMate)  
+
+🔹 Cross-platform mobile app to support quitting smoking  
+🔹 Features: Habit tracking, personalized quit plans, motivational tips, community support  
+
+**Technologies:**  
+!Flutter 
+!Firebase 
+!GitHub  
+
+Repo Link  
+
+---
+
+
+
+
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishfak07&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=ishfak07&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ishfak07&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Ishfaque's GitHub Stats"/>
+  
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=ishfak07&theme=tokyonight&hide_border=true" height="150" alt="Ishfaque's GitHub Streak"/>
+  
+---
+## 🐍 contribution Graph
+!snake gif
+
+## ☑️ Top Languages  
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishfak07&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Ishfaque's Top Languages"/>
 </p>
 
----
+## 📬 Contact  
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/ishfak07/ishfak07/blob/output/github-snake-dark.svg" alt="Snake animation"/>
-</p>
-
----
-
-## ☑️ Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishfak07&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
-</p>
-
----
-
-## 📬 Contact
-
-- 📧 Email: [memberofpfc20@gmail.com](mailto:memberofpfc20@gmail.com)  
-- 💼 LinkedIn: [faizul-ishfaque](https://www.linkedin.com/in/faizul-ishfaque)  
-- 🌐 Portfolio: [My_portfol.io](https://ishfak07.github.io/My_portfol.io/)  
-
----
+- 📧 Email: memberofpfc20@gmail.com  
+- 💼 LinkedIn: faizul-ishfaque  
+- 🌐 Portfolio: My_portfol.io  
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 </div>
-
-<p align="center">✨ Keep learning. Keep building. Keep shipping. 🚀</p>
+<p align="center"><b>✨ Keep learning. Keep building. Keep shipping. 🚀</b></p>
