@@ -193,10 +193,9 @@ const ishfaque = {
 - 💼 LinkedIn: [faizul-ishfaque](https://www.linkedin.com/in/faizul-ishfaque)  
 - 🌐 Portfolio: [My_portfol.io](https://ishfak07.github.io/My_portfol.io/)  
 
----
+<p align="center"><b>✨ Keep learning. Keep building. Keep shipping. 🚀</b></p>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 </div>
-
-<p align="center"><b>✨ Keep learning. Keep building. Keep shipping. 🚀</b></p>
