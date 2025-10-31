@@ -1,4 +1,40 @@
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Ishfaque&width=900&height=200" alt="Glitch Banner"/>
+</p>
 
+<!-- Typing Tagline -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=1000&color=F8F8FF&center=true&vCenter=true&width=700&lines=Software+Engineer+Intern+at+Imara+Software+Solutions;Building+scalable+solutions+with+❤️;MERN+•+ERP+•+Automation+•+Testing+•+Agile;Rumi+Love"/>
+</p>
+
+---
+
+<!-- CONTACT / BADGES -->
+<p align="center">
+  <a href="mailto:memberofpfc20@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/faizul-ishfaque"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://ishfak07.github.io/My_portfol.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-29a?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://github.com/ishfak07"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-222?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+<img align="right" alt="Coding" width="350" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif"/>
+
+# 💫 About Me
+
+const ishfaque = {
+role: "Full Stack Developer",
+workingAt: "Self / Freelance",
+code: ["Java", "JavaScript", "HTML", "CSS", "Node.js", "Flutter", "Dart"],
+architecture: ["Web Applications", "Mobile Applications", "Responsive Design"],
+funFact: "I design, code, and debug with a cup of tea! ☕️",
+contact: {
+email: "memberofpfc20@gmail.com",
+github: "https://github.com/ishfak07"
+}
+};
 ---
 
 ## 💻 Technology Stack
